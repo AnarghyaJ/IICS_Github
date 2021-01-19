@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "hiUfLpa6nsVkRV1JwDDmqd",
+    "name" : "PC2C-517",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "PC2C-517",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

@@ -1,0 +1,50 @@
+{
+  "objectInfo" : {
+    "id" : "6iY2O8AnwRufDpbYNGu4IO",
+    "name" : "m_11_GBQ_Mapplets",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000017000000000003"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "\nConverted using O2N Version: O2N : Framesh1ft Tool V3.03",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ {
+    "id" : "6jExGzgGfUhjpfVVC5FeEE",
+    "name" : "mplt_11_GBQ_SrcLkpSqlTx",
+    "type" : "DMAPPLET",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000040000000000002"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "Mapplet pushed from PC to ICS : mplt_11_GBQ_SrcLkpSqlTx",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/PRRS/PC2C-517"
+  } ]
+}

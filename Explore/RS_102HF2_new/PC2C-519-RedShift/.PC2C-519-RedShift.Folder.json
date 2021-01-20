@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "3y5RaOSCV9Me47CGKKg9ub",
+    "name" : "PC2C-519-RedShift",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "PC2C-519-RedShift",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

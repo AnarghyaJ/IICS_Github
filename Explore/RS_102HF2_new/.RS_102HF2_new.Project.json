@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "7IpY5pAVR8Tb6e4COZhZUm",
+    "name" : "RS_102HF2_new",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Migrated project",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

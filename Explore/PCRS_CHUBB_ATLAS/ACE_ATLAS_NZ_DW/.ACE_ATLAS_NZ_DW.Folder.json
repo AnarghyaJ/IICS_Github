@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "9wM1lUUCfgBl5ICGtScTC4",
+    "name" : "ACE_ATLAS_NZ_DW",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "ACE_ATLAS_NZ_DW",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

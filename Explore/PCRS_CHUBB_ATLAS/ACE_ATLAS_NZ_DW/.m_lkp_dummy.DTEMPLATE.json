@@ -1,0 +1,47 @@
+{
+  "objectInfo" : {
+    "id" : "2dJS9FTaKSFfmZS2cDpQih",
+    "name" : "m_lkp_dummy",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000017000000000002"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "\nConverted using O2N Version: O2N : Framesh1ft Tool V3.03",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ {
+    "id" : "chQaXQyNE6AkcXjzNULbcH",
+    "name" : "seq_gen_PREM_POSTING_FILE_SK",
+    "type" : "SequenceGenerator",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000042000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Re-usable Sequence Generator pushed from PC to ICS",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/PCRS_CHUBB_ATLAS/ACE_ATLAS_NZ_DW"
+  } ]
+}

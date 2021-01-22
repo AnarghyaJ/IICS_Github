@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "7qeYblBZO0BiNgm6Nx7K0O",
+    "name" : "Common_3NF",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Common_3NF",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

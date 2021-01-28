@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "chQaXQyNE6AkcXjzNULbcH",
+    "name" : "seq_gen_PREM_POSTING_FILE_SK",
+    "type" : "SequenceGenerator",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000042000000000002"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "Re-usable Sequence Generator pushed from PC to ICS",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ ]
+}

@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "8yNz2zS8tPOisrzzDuywGQ",
+    "name" : "m_stg_stg_alt_invst_ord_dup_rem1",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000017000000000009"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "This mapping updates the DW_DUPLICATE_IND column for all the records by identifying the duplicate records coming from both the sources, core and audit tables.",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ ]
+}
